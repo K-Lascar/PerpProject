@@ -3,49 +3,49 @@ Perpetual Protocol Project
 
 **Funding Rates**
 
-![Funding Rates](assets\funding_rate_chart.gif)
+![Funding Rates](assets/funding_rate_chart.gif)
 
 
 
 **Trading Volume**
 
-![Volume](assets\volume.gif)
+![Volume](assets/volume.gif)
 
 
 
 **Liquidity**
 
-![Liquidity](assets\liquidity.gif)
+![Liquidity](assets/liquidity.gif)
 
 
 
 **Liquidations**
 
-![Liquidations](assets\liquidations.gif)
+![Liquidations](assets/liquidations.gif)
 
 
 
 **TradingView Charts**
 
-![TradingView Charts](assets\tradingview_chart.gif)
+![TradingView Charts](assets/tradingview_chart.gif)
 
 
 
 **Bias**
 
-![Bias](assets\bias.gif)
+![Bias](assets/bias.gif)
 
 
 
 **Profiles**
 
-![Profiles](assets\profile.gif)
+![Profiles](assets/profile.gif)
 
 
 
 **Leaderboard**
 
-![Leaderboard](assets\leaderboard.gif)
+![Leaderboard](assets/leaderboard.gif)
 
 
 
