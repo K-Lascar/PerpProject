@@ -33,6 +33,12 @@ Perpetual Protocol Project
 
 **Bias**
 
+Chart
+
+![Market Bias](assets/market_bias.gif)
+
+AMM
+
 ![Bias](assets/bias.gif)
 
 
